@@ -1,4 +1,4 @@
-import Intro from "src/app/components/intro";
+import Intro from "src/app/components/resume/intro";
 
 const resume = () => {
   return <Intro />;
